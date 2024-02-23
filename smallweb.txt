@@ -1,4 +1,5 @@
 http://336699.org/feed
+https://adactio.com/journal/rss
 http://amaldev.blog/feed/
 http://amid.fish/feed.xml
 http://anhvn.com/feed.xml
@@ -24,6 +25,7 @@ http://blog.sigfpe.com/feeds/posts/default
 http://blog.system11.org/?feed=rss2
 http://blog.tyrannyofthemouse.com/feeds/posts/default
 http://boginjr.com/feed/
+https://brajeshwar.com/feed.xml
 http://cameronmoll.com/journal.xml
 http://causality.cs.ucla.edu/blog/index.php/feed/
 http://chris.cothrun.com/feed/
@@ -53,6 +55,7 @@ http://jeff-barr.com/feed.xml
 http://joe-steel.com/feed
 http://johnj.com/index.xml
 http://jonathanstray.com/feed
+https://jvns.ca/atom.xml
 http://kylehalladay.com/atom.xml
 http://lambda-the-ultimate.org/rss.xml
 http://linesandcolors.com/feed/
